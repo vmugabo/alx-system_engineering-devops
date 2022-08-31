@@ -1,2 +1,2 @@
 #!/bin/bash
---mime-type -m [school]
+-C [-m school]
