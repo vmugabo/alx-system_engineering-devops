@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 pwd
 
+=======
+"/tmp/alx-system_engineering-devops/0x00-shell_basics"
+>>>>>>> 3609fd425c9a5c5e5d0762d9b9478d493b3473ac
